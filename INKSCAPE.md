@@ -16,4 +16,4 @@ si,la paloma de la paz
 -¿Has sacado algo de este ejercicio?
 si,mi propia imaginacion 
 
-[dibujo de prueba](https://github.com/chenbangwei/SOLDADURA-Y-DISENO/blob/main/dibujo%20de%20prueba.svg)
+¡[dibujo de prueba](https://github.com/chenbangwei/SOLDADURA-Y-DISENO/blob/main/dibujo%20de%20prueba.svg)!
