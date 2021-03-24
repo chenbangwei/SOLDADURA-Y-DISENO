@@ -24,5 +24,5 @@ si,mi propia imaginacion
 
 ![](https://raw.githubusercontent.com/chenbangwei/SOLDADURA-Y-DISENO/main/dibujo%20de%20prueba.png)
 
-![](https://raw.githubusercontent.com/chenbangwei/SOLDADURA-Y-DISENO/main/dibujo%20de%20150%20ppp.png.svg.png)
+![](https://raw.githubusercontent.com/chenbangwei/SOLDADURA-Y-DISENO/main/dibujo%20de%20150%20ppp.png)
 
