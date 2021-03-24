@@ -22,3 +22,5 @@ si,mi propia imaginacion
 
 ![](https://raw.githubusercontent.com/chenbangwei/SOLDADURA-Y-DISENO/main/path1393.png)
 
+![](https://raw.githubusercontent.com/chenbangwei/SOLDADURA-Y-DISENO/main/dibujo%20de%20prueba.png)
+
