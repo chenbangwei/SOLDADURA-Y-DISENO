@@ -2,6 +2,8 @@
  
  
  ### Ejercicios de conceptos
+ 
+ [fotos]()
 
 ¿Qué has hecho y por qué?
 - para amor dos personas abrasandose
