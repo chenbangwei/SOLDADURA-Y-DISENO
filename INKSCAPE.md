@@ -9,6 +9,7 @@
 - para odio una persona quemando sus cosas
 - para paz un simbolo de la paz de paloma
 - para guerra soldados romanos con medievales
+
 -¿Has utilizado algún símbolo?¿cuáles?
 si,la paloma de la paz
 
