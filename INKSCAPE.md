@@ -26,3 +26,11 @@ si,mi propia imaginacion
 
 ![](https://raw.githubusercontent.com/chenbangwei/SOLDADURA-Y-DISENO/main/dibujo%20de%20150%20ppp.png.svg.png)
 
+//dibujo original
+
+![](https://github.com/chenbangwei/SOLDADURA-Y-DISENO/blob/main/0468ba4c-65e8-436e-a267-f76147971ea0.jpg)
+
+//modificados con vectorizar mapas de bits
+
+![](https://github.com/chenbangwei/SOLDADURA-Y-DISENO/blob/main/leon.svg.png)
+
