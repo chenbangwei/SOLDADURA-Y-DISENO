@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="svg636"
+   width="1530"
+   height="1920"
+   viewBox="0 0 1530 1920"
+   sodipodi:docname="0468ba4c-65e8-436e-a267-f76147971ea0.jpg"
+   inkscape:version="1.0.1 (0767f8302a, 2020-10-17)">
+  <metadata
+     id="metadata642">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs640">
+    <linearGradient
+       id="linearGradient9829"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#c4ffff;stop-opacity:1;"
+         offset="0"
+         id="stop9827" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1853"
+     inkscape:window-height="1025"
+     id="namedview638"
+     showgrid="false"
+     inkscape:zoom="0.35355339"
+     inkscape:cx="286.18666"
+     inkscape:cy="554.21803"
+     inkscape:window-x="67"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g644" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Image"
+     id="g644">
+    <g
+       id="g676" />
+    <path
+       id="path757"
+       style="fill:#e28787;fill-opacity:1;fill-rule:nonzero;stroke:#75e9c3;stroke-width:76.6;stroke-miterlimit:4;stroke-dasharray:153.2, 76.6, 38.3, 76.6;stroke-dashoffset:383;stroke-opacity:0.667649"
+       d="M 666.16229,313.23704 A 305.79675,298.90518 0 0 0 360.36542,612.14329 305.79675,298.90518 0 0 0 666.16229,911.04759 305.79675,298.90518 0 0 0 971.95914,612.14329 305.79675,298.90518 0 0 0 666.16229,313.23704 Z" />
+  </g>
+</svg>
