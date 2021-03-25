@@ -53,3 +53,8 @@ si,mi propia imaginacion
 ![](https://github.com/chenbangwei/SOLDADURA-Y-DISENO/blob/main/Captura%20de%20pantalla%20de%202021-03-25%2010-36-46.png)
 ![](https://github.com/chenbangwei/SOLDADURA-Y-DISENO/blob/main/circulo03%20propiedades.png)
 
+//cambios de color
+
+![](https://github.com/chenbangwei/SOLDADURA-Y-DISENO/blob/main/cambio%20de%20color.png)
+![](https://github.com/chenbangwei/SOLDADURA-Y-DISENO/blob/main/circulo1.png)
+
