@@ -36,3 +36,9 @@ si,mi propia imaginacion
 
 ![](https://github.com/chenbangwei/SOLDADURA-Y-DISENO/blob/main/leon.svg)
 
+![](https://github.com/chenbangwei/SOLDADURA-Y-DISENO/blob/main/leon%20one%20.svg.png)
+
+![](https://github.com/chenbangwei/SOLDADURA-Y-DISENO/blob/main/leon2.svg.png)
+
+![](https://github.com/chenbangwei/SOLDADURA-Y-DISENO/blob/main/hilla.svg.png)
+
