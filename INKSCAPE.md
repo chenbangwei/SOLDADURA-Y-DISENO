@@ -76,3 +76,8 @@ si,mi propia imaginacion
 ![](https://github.com/chenbangwei/SOLDADURA-Y-DISENO/blob/main/circulo.svg.png)
 ![](https://github.com/chenbangwei/SOLDADURA-Y-DISENO/blob/main/color%20de%20trazo%20circulo%2002.png)
 
+//Añadiendo trazos modificados
+
+![](https://github.com/chenbangwei/SOLDADURA-Y-DISENO/blob/main/0468ba4c-65e8-436e-a267-f76147971ea0.jpg.2021_03_25_10_14_33.0.svg)
+![](https://github.com/chenbangwei/SOLDADURA-Y-DISENO/blob/main/Captura%20de%20pantalla%20de%202021-03-25%2010-11-00.png)
+
