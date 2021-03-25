@@ -23,7 +23,9 @@ si,mi propia imaginacion
 -
 -
 
-### pruebas  [VOLVER AL ATAJO](https://github.com/chenbangwei/SOLDADURA-Y-DISENO/blob/main/INKSCAPE.md#atajos)
+### pruebas 
+
+[VOLVER AL ATAJO](https://github.com/chenbangwei/SOLDADURA-Y-DISENO/blob/main/INKSCAPE.md#atajos)
 
 ![](https://raw.githubusercontent.com/chenbangwei/SOLDADURA-Y-DISENO/57e2d7994ff40249d5c950cd3a8a3098fef8a5a6/dibujo%20de%20prueba.svg)
 
@@ -35,7 +37,9 @@ si,mi propia imaginacion
 
 ![](https://raw.githubusercontent.com/chenbangwei/SOLDADURA-Y-DISENO/main/dibujo%20de%20150%20ppp.png.svg.png)
 
-### Leon retrato [VOLVER AL ATAJO](https://github.com/chenbangwei/SOLDADURA-Y-DISENO/blob/main/INKSCAPE.md#atajos)
+### Leon retrato 
+
+[VOLVER AL ATAJO](https://github.com/chenbangwei/SOLDADURA-Y-DISENO/blob/main/INKSCAPE.md#atajos)
 
 //dibujo original
 
@@ -55,7 +59,9 @@ si,mi propia imaginacion
 
 ![](https://github.com/chenbangwei/SOLDADURA-Y-DISENO/blob/main/leon3.svg.png)
 
-### Circulos    [VOLVER AL ATAJO](https://github.com/chenbangwei/SOLDADURA-Y-DISENO/blob/main/INKSCAPE.md#atajos)
+### Circulos    
+
+[VOLVER AL ATAJO](https://github.com/chenbangwei/SOLDADURA-Y-DISENO/blob/main/INKSCAPE.md#atajos)
 
 ![](https://github.com/chenbangwei/SOLDADURA-Y-DISENO/blob/main/Captura%20de%20pantalla%20de%202021-03-25%2010-36-46.png)
 ![](https://github.com/chenbangwei/SOLDADURA-Y-DISENO/blob/main/circulo03%20propiedades.png)
