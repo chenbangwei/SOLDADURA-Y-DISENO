@@ -26,6 +26,8 @@ si,mi propia imaginacion
 
 ![](https://raw.githubusercontent.com/chenbangwei/SOLDADURA-Y-DISENO/main/dibujo%20de%20150%20ppp.png.svg.png)
 
+### Leon retrato
+
 //dibujo original
 
 ![](https://github.com/chenbangwei/SOLDADURA-Y-DISENO/blob/main/0468ba4c-65e8-436e-a267-f76147971ea0.jpg)
@@ -43,4 +45,9 @@ si,mi propia imaginacion
 ![](https://github.com/chenbangwei/SOLDADURA-Y-DISENO/blob/main/hilla.svg.png)
 
 ![](https://github.com/chenbangwei/SOLDADURA-Y-DISENO/blob/main/leon3.svg.png)
+
+### Circulos
+
+![](https://github.com/chenbangwei/SOLDADURA-Y-DISENO/blob/main/Captura%20de%20pantalla%20de%202021-03-25%2010-36-46.png)
+![](https://github.com/chenbangwei/SOLDADURA-Y-DISENO/blob/main/circulo03%20propiedades.png)
 
