@@ -71,3 +71,8 @@ si,mi propia imaginacion
 ![](https://github.com/chenbangwei/SOLDADURA-Y-DISENO/blob/main/cambio%20de%20color.png)
 ![](https://github.com/chenbangwei/SOLDADURA-Y-DISENO/blob/main/circulo1.png)
 
+//Añadiendo trazos(linea)
+
+![](https://github.com/chenbangwei/SOLDADURA-Y-DISENO/blob/main/circlo%2002.jpg.svg)
+![](https://github.com/chenbangwei/SOLDADURA-Y-DISENO/blob/main/color%20de%20trazo%20circulo%2002.png)
+
