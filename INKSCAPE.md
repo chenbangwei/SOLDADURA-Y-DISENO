@@ -16,6 +16,13 @@ si,la paloma de la paz
 -¿Has sacado algo de este ejercicio?
 si,mi propia imaginacion 
 
+## ATAJOS
+- [PRUEBAS](https://github.com/chenbangwei/SOLDADURA-Y-DISENO/blob/main/INKSCAPE.md#pruebas)
+- [LEÓN RETRATO](https://github.com/chenbangwei/SOLDADURA-Y-DISENO/blob/main/INKSCAPE.md#leon-retrato)
+- [CIRCULOS](https://github.com/chenbangwei/SOLDADURA-Y-DISENO/blob/main/INKSCAPE.md#circulos)
+-
+-
+
 ### pruebas
 
 ![](https://raw.githubusercontent.com/chenbangwei/SOLDADURA-Y-DISENO/57e2d7994ff40249d5c950cd3a8a3098fef8a5a6/dibujo%20de%20prueba.svg)
