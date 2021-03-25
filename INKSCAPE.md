@@ -42,3 +42,5 @@ si,mi propia imaginacion
 
 ![](https://github.com/chenbangwei/SOLDADURA-Y-DISENO/blob/main/hilla.svg.png)
 
+![](https://github.com/chenbangwei/SOLDADURA-Y-DISENO/blob/main/leon3.svg.png)
+
