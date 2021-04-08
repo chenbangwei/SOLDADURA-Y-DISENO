@@ -20,8 +20,8 @@ si,mi propia imaginacion
 - [PRUEBAS](https://github.com/chenbangwei/SOLDADURA-Y-DISENO/blob/main/INKSCAPE.md#pruebas)
 - [LEÓN RETRATO](https://github.com/chenbangwei/SOLDADURA-Y-DISENO/blob/main/INKSCAPE.md#leon-retrato)
 - [CIRCULOS](https://github.com/chenbangwei/SOLDADURA-Y-DISENO/blob/main/INKSCAPE.md#circulos)
--
--
+- [PROCESOS DE LOGO](https://github.com/chenbangwei/SOLDADURA-Y-DISENO/blob/main/INKSCAPE.md#inkscape-procesos-de-logo-a-logo)
+- []()
 
 ### pruebas 
 
@@ -91,6 +91,8 @@ si,mi propia imaginacion
 ![](https://github.com/chenbangwei/SOLDADURA-Y-DISENO/blob/main/Cosplay-de-Darling-in-the-Franxx-muestra-la-amistad-de-Ichigo-y-Zero-Two.jpg)
 
 ### INKSCAPE PROCESOS DE LOGO A LOGO
+
+[VOLVER AL ATAJO](https://github.com/chenbangwei/SOLDADURA-Y-DISENO/blob/main/INKSCAPE.md#atajos)
 
 ![](https://github.com/chenbangwei/SOLDADURA-Y-DISENO/blob/main/Captura%20de%20pantalla%20de%202021-04-08%2011-46-28.png)
 
