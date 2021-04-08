@@ -89,3 +89,7 @@ si,mi propia imaginacion
 
 //cogido de Google,tratado de un anime DARLING IN THE FRANXX DONDE APARACE : ZERO TWO(Cabello rosa con cuernos) ICHIGO(Cabello corto de color azul fuerte)
 ![](https://github.com/chenbangwei/SOLDADURA-Y-DISENO/blob/main/Cosplay-de-Darling-in-the-Franxx-muestra-la-amistad-de-Ichigo-y-Zero-Two.jpg)
+
+### INKSCAPE PROCESOS DE LOGO A LOGO
+
+![](https://github.com/chenbangwei/SOLDADURA-Y-DISENO/blob/main/Captura%20de%20pantalla%20de%202021-04-08%2010-53-04.png)
