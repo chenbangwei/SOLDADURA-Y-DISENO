@@ -94,6 +94,8 @@ si,mi propia imaginacion
 
 [VOLVER AL ATAJO](https://github.com/chenbangwei/SOLDADURA-Y-DISENO/blob/main/INKSCAPE.md#atajos)
 
+## LOGO 1 PRACTICA
+
 ![](https://github.com/chenbangwei/SOLDADURA-Y-DISENO/blob/main/Captura%20de%20pantalla%20de%202021-04-08%2011-46-28.png)
 
 ![](https://github.com/chenbangwei/SOLDADURA-Y-DISENO/blob/main/Captura%20de%20pantalla%20de%202021-04-08%2011-47-28.png)
@@ -102,3 +104,12 @@ si,mi propia imaginacion
 
 ![](https://github.com/chenbangwei/SOLDADURA-Y-DISENO/blob/main/Captura%20de%20pantalla%20de%202021-04-08%2010-53-04.png)
 
+## LOGO 2 PRACTICA
+
+![](https://github.com/chenbangwei/SOLDADURA-Y-DISENO/blob/main/Captura%20de%20pantalla%20de%202021-04-08%2012-29-31.png)
+
+//duplicar i reflejo vertical
+
+![](https://github.com/chenbangwei/SOLDADURA-Y-DISENO/blob/main/Captura%20de%20pantalla%20de%202021-04-08%2012-54-45.png)
+
+![](https://github.com/chenbangwei/SOLDADURA-Y-DISENO/blob/main/Captura%20de%20pantalla%20de%202021-04-08%2012-59-06.png)
