@@ -98,6 +98,7 @@ si,mi propia imaginacion
 
 ![](https://github.com/chenbangwei/SOLDADURA-Y-DISENO/blob/main/Captura%20de%20pantalla%20de%202021-04-08%2011-47-28.png)
 
+![](https://github.com/chenbangwei/SOLDADURA-Y-DISENO/blob/main/Captura%20de%20pantalla%20de%202021-04-08%2012-10-51.png)
+
 ![](https://github.com/chenbangwei/SOLDADURA-Y-DISENO/blob/main/Captura%20de%20pantalla%20de%202021-04-08%2010-53-04.png)
 
-![](https://github.com/chenbangwei/SOLDADURA-Y-DISENO/blob/main/Captura%20de%20pantalla%20de%202021-04-08%2012-10-51.png)
