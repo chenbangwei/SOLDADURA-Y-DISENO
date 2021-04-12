@@ -2,6 +2,6 @@
 
 ## [INKSCAPE](https://github.com/chenbangwei/SOLDADURA-Y-DISENO/blob/main/INKSCAPE.md)
 
-##[SOLDADURA]()
+## [SOLDADURA](https://github.com/chenbangwei/SOLDADURA-Y-DISENO/blob/main/SOLDADURA.md)
 
 ## [Extra Arduino](https://github.com/chenbangwei/SOLDADURA-Y-DISENO/blob/main/Extra%20Arduino.md)
