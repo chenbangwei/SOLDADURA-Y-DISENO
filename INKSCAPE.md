@@ -91,6 +91,8 @@ si,mi propia imaginacion
 
 [>](https://github.com/chenbangwei/SOLDADURA-Y-DISENO/blob/main/INKSCAPE.md#inkscape-procesos-de-logo-a-logo)
 
+[VOLVER AL ATAJO](https://github.com/chenbangwei/SOLDADURA-Y-DISENO/blob/main/INKSCAPE.md#atajos)
+
 //cogido de Google,tratado de un juego de battle royale Titulo:FreeFire
 ![](https://github.com/chenbangwei/SOLDADURA-Y-DISENO/blob/main/unnamed.png)
 ![](https://github.com/chenbangwei/SOLDADURA-Y-DISENO/blob/main/Captura%20de%20pantalla%20de%202021-03-26%2012-45-03%20-%201.png)
