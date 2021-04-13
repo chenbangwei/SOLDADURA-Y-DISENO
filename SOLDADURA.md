@@ -1,7 +1,7 @@
 # SOLDADURA
 
-Qué hemos hecho
+¿Qué hemos hecho?
 
-Qué herramientas hemos utilizado
+¿Qué herramientas hemos utilizado?
 
-Qué he aprendido
+¿Qué he aprendido?
