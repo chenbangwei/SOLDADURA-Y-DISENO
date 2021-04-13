@@ -20,8 +20,8 @@ si,mi propia imaginacion
 - [PRUEBAS](https://github.com/chenbangwei/SOLDADURA-Y-DISENO/blob/main/INKSCAPE.md#pruebas)
 - [LEÓN RETRATO](https://github.com/chenbangwei/SOLDADURA-Y-DISENO/blob/main/INKSCAPE.md#leon-retrato)
 - [CIRCULOS](https://github.com/chenbangwei/SOLDADURA-Y-DISENO/blob/main/INKSCAPE.md#circulos)
+- [IMATGE PERSONAL](https://github.com/chenbangwei/SOLDADURA-Y-DISENO/blob/main/INKSCAPE.md#imatge-personal)
 - [PROCESOS DE LOGO](https://github.com/chenbangwei/SOLDADURA-Y-DISENO/blob/main/INKSCAPE.md#inkscape-procesos-de-logo-a-logo)
-- []()
 
 ### pruebas                
 
