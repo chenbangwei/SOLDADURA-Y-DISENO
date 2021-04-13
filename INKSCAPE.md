@@ -23,9 +23,9 @@ si,mi propia imaginacion
 - [PROCESOS DE LOGO](https://github.com/chenbangwei/SOLDADURA-Y-DISENO/blob/main/INKSCAPE.md#inkscape-procesos-de-logo-a-logo)
 - []()
 
-### pruebas 
+### pruebas                 [>](https://github.com/chenbangwei/SOLDADURA-Y-DISENO/blob/main/INKSCAPE.md#leon-retrato)
 
-[VOLVER AL ATAJO](https://github.com/chenbangwei/SOLDADURA-Y-DISENO/blob/main/INKSCAPE.md#atajos)
+[VOLVER AL ATAJO](https://github.com/chenbangwei/SOLDADURA-Y-DISENO/blob/main/INKSCAPE.md#atajos)                 
 
 ![](https://raw.githubusercontent.com/chenbangwei/SOLDADURA-Y-DISENO/57e2d7994ff40249d5c950cd3a8a3098fef8a5a6/dibujo%20de%20prueba.svg)
 
@@ -37,7 +37,7 @@ si,mi propia imaginacion
 
 ![](https://raw.githubusercontent.com/chenbangwei/SOLDADURA-Y-DISENO/main/dibujo%20de%20150%20ppp.png.svg.png)
 
-### Leon retrato 
+### Leon retrato              [>](https://github.com/chenbangwei/SOLDADURA-Y-DISENO/blob/main/INKSCAPE.md#circulos)
 
 [VOLVER AL ATAJO](https://github.com/chenbangwei/SOLDADURA-Y-DISENO/blob/main/INKSCAPE.md#atajos)
 
@@ -59,7 +59,7 @@ si,mi propia imaginacion
 
 ![](https://github.com/chenbangwei/SOLDADURA-Y-DISENO/blob/main/leon3.svg.png)
 
-### Circulos    
+### Circulos        [>](https://github.com/chenbangwei/SOLDADURA-Y-DISENO/blob/main/INKSCAPE.md#imatge-personal)
 
 [VOLVER AL ATAJO](https://github.com/chenbangwei/SOLDADURA-Y-DISENO/blob/main/INKSCAPE.md#atajos)
 
@@ -81,7 +81,7 @@ si,mi propia imaginacion
 ![](https://github.com/chenbangwei/SOLDADURA-Y-DISENO/blob/main/0468ba4c-65e8-436e-a267-f76147971ea0.jpg.2021_03_25_10_14_33.0.svg.png)
 ![](https://github.com/chenbangwei/SOLDADURA-Y-DISENO/blob/main/Captura%20de%20pantalla%20de%202021-03-25%2010-11-00.png)
 
-### Imatge Personal
+### Imatge Personal          [>](https://github.com/chenbangwei/SOLDADURA-Y-DISENO/blob/main/INKSCAPE.md#inkscape-procesos-de-logo-a-logo)
 
 //cogido de Google,tratado de un juego de battle royale Titulo:FreeFire
 ![](https://github.com/chenbangwei/SOLDADURA-Y-DISENO/blob/main/unnamed.png)
@@ -90,7 +90,7 @@ si,mi propia imaginacion
 //cogido de Google,tratado de un anime DARLING IN THE FRANXX DONDE APARACE : ZERO TWO(Cabello rosa con cuernos) ICHIGO(Cabello corto de color azul fuerte)
 ![](https://github.com/chenbangwei/SOLDADURA-Y-DISENO/blob/main/Cosplay-de-Darling-in-the-Franxx-muestra-la-amistad-de-Ichigo-y-Zero-Two.jpg)
 
-### INKSCAPE PROCESOS DE LOGO A LOGO
+### INKSCAPE PROCESOS DE LOGO A LOGO             
 
 [VOLVER AL ATAJO](https://github.com/chenbangwei/SOLDADURA-Y-DISENO/blob/main/INKSCAPE.md#atajos)
 
