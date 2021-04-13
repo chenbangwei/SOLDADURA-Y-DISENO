@@ -23,7 +23,9 @@ si,mi propia imaginacion
 - [PROCESOS DE LOGO](https://github.com/chenbangwei/SOLDADURA-Y-DISENO/blob/main/INKSCAPE.md#inkscape-procesos-de-logo-a-logo)
 - []()
 
-### pruebas                 [>](https://github.com/chenbangwei/SOLDADURA-Y-DISENO/blob/main/INKSCAPE.md#leon-retrato)
+### pruebas                
+
+[>](https://github.com/chenbangwei/SOLDADURA-Y-DISENO/blob/main/INKSCAPE.md#leon-retrato)
 
 [VOLVER AL ATAJO](https://github.com/chenbangwei/SOLDADURA-Y-DISENO/blob/main/INKSCAPE.md#atajos)                 
 
@@ -37,7 +39,9 @@ si,mi propia imaginacion
 
 ![](https://raw.githubusercontent.com/chenbangwei/SOLDADURA-Y-DISENO/main/dibujo%20de%20150%20ppp.png.svg.png)
 
-### Leon retrato              [>](https://github.com/chenbangwei/SOLDADURA-Y-DISENO/blob/main/INKSCAPE.md#circulos)
+### Leon retrato             
+
+[>](https://github.com/chenbangwei/SOLDADURA-Y-DISENO/blob/main/INKSCAPE.md#circulos)
 
 [VOLVER AL ATAJO](https://github.com/chenbangwei/SOLDADURA-Y-DISENO/blob/main/INKSCAPE.md#atajos)
 
@@ -59,7 +63,9 @@ si,mi propia imaginacion
 
 ![](https://github.com/chenbangwei/SOLDADURA-Y-DISENO/blob/main/leon3.svg.png)
 
-### Circulos        [>](https://github.com/chenbangwei/SOLDADURA-Y-DISENO/blob/main/INKSCAPE.md#imatge-personal)
+### Circulos       
+
+[>](https://github.com/chenbangwei/SOLDADURA-Y-DISENO/blob/main/INKSCAPE.md#imatge-personal)
 
 [VOLVER AL ATAJO](https://github.com/chenbangwei/SOLDADURA-Y-DISENO/blob/main/INKSCAPE.md#atajos)
 
@@ -81,7 +87,9 @@ si,mi propia imaginacion
 ![](https://github.com/chenbangwei/SOLDADURA-Y-DISENO/blob/main/0468ba4c-65e8-436e-a267-f76147971ea0.jpg.2021_03_25_10_14_33.0.svg.png)
 ![](https://github.com/chenbangwei/SOLDADURA-Y-DISENO/blob/main/Captura%20de%20pantalla%20de%202021-03-25%2010-11-00.png)
 
-### Imatge Personal          [>](https://github.com/chenbangwei/SOLDADURA-Y-DISENO/blob/main/INKSCAPE.md#inkscape-procesos-de-logo-a-logo)
+### Imatge Personal 
+
+[>](https://github.com/chenbangwei/SOLDADURA-Y-DISENO/blob/main/INKSCAPE.md#inkscape-procesos-de-logo-a-logo)
 
 //cogido de Google,tratado de un juego de battle royale Titulo:FreeFire
 ![](https://github.com/chenbangwei/SOLDADURA-Y-DISENO/blob/main/unnamed.png)
