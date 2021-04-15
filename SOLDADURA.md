@@ -10,4 +10,4 @@
 
 ¿Qué he aprendido?
 
-![](https://github.com/chenbangwei/SOLDADURA-Y-DISENO/blob/main/20210413_121324.jpg)
+![](https://github.com/chenbangwei/SOLDADURA-Y-DISENO/blob/main/20210413_123317.jpg)
