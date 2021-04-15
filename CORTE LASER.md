@@ -1,17 +1,28 @@
 // Apuntes classe ( corte laser)
 
+Este es el enlace base http://academy.cba.mit.edu/classes/computer_cutting/index.html
+
 THE FAB Academy 
 // Hemos entrado en la pagina web i pinchado el enlace schedule (2020),del feb12 computer-controlled cutting
 
  knife
+ 
     Roland Zund Othercutter ultrasonic
+    
  print and cut
+ 
     Roland
+    
      Laser:Trotec 
+     
     hay cinco estados materiales :solido,liquido,gaseoso,plasma y condensado de Bose Einstein
+    
  PLASMA
+ 
  Forest Scientific Torchmate
+ 
  torchmate:
+ 
  WATERJET
  es una maquina a presion de agua para corta varias cosas ,pero se utiliza en metales
  HOT WIRE
