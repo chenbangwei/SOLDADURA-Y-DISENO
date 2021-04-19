@@ -57,13 +57,21 @@ TIPOS DE LASER
  
 TIPOGRAFÍA(És la definición grafica de caracteres)
 Ejemplos:
+
 -Impact(memes)
+
 -Arial
+
 -Hellvetica
+
 -Times new roman
+
 -Nunito
+
 -Darker
+
 Archivos: 
+
 TTF }
 3-soko
 OTF }
@@ -72,9 +80,12 @@ Tipo: vectoriales
 PDF --> Portable.Dcoument.Format
 
 -Embeber o Empotrar la Tipografía
+
 -Incluir en un archivo separado
+
 -Pasar texto a contornos o trazos
 
- Tipografia PAGINA WEB :DAFONT 
+ Tipografia PAGINA WEB :DAFON
  
--![Jaycons](https://github.com/chenbangwei/SOLDADURA-Y-DISENO/blob/main/Captura%20de%20pantalla%20de%202021-04-19%2010-32-15.png)
+ -JAYCONS
+![Jaycons](https://github.com/chenbangwei/SOLDADURA-Y-DISENO/blob/main/Captura%20de%20pantalla%20de%202021-04-19%2010-42-40.png)
