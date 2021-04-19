@@ -2,7 +2,7 @@
 
 Este es el enlace base http://academy.cba.mit.edu/classes/computer_cutting/index.html
 
-THE FAB Academy 
+## THE FAB Academy (Apuntes de diversas maquinas de corte i otros)
 // Hemos entrado en la pagina web i pinchado el enlace schedule (2020),del feb12 computer-controlled cutting
 
  knife
@@ -50,3 +50,30 @@ TIPOS DE LASER
 -Nd:YAG(1054-532 nm)
 -Ti:sapphire (650-1100 nm)
 -Excimer(100-300 nm)
+
+### CÓDIGO DE CARÁCTER
+ 
+ 0110101 -->F 
+ 
+TIPOGRAFÍA(És la definición grafica de caracteres)
+Ejemplos:
+-Impact(memes)
+-Arial
+-Hellvetica
+-Times new roman
+-Nunito
+-Darker
+Archivos: 
+TTF }
+3-soko
+OTF }
+Tipo: vectoriales
+
+PDF --> Portable.Dcoument.Format
+
+-Embeber o Empotrar la Tipografía
+-Incluir en un archivo separado
+-Pasar texto a contornos o trazos
+
+ Tipografia PAGINA WEB :DAFONT 
+-[Jaycons](https://github.com/chenbangwei/SOLDADURA-Y-DISENO/blob/main/Captura%20de%20pantalla%20de%202021-04-19%2010-32-15.png)
