@@ -93,4 +93,7 @@ PDF --> Portable.Dcoument.Format
 
 # CORTE LÁSER 
 
-* S
+* CONCEPTOS SOBRE EL CORTE LÁSER (TEORÍA)
+* DISEÑO INICIAL PARA CORTAR CON LÁSER 
+
+¿Q?
