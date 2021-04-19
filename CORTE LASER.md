@@ -87,20 +87,34 @@ FresadoraCNC,Máquinas de Impressión 3D,me ha gustado corte de plasma....
 
 -¿Qué he visto y qué he aprendido en general?-->CNC-->LUGAR
 
-La Maquina 
+La Maquina. He aprendido a cortar con láser piezas pequeñas y vectorizar imágenes. 
 
 ## CORTE LÁSER
 
 -¿Cómo es la láser?¿como se hace funcionar?¿Que medidas de seguridad hay?
 
+La láser pequeña con una luz potente concentrada,conectando con la fresadora i el inkscape final dandole un boton a la fresadora para INICIAR ,cristal de plastico resistente
+
 -¿Cómo pasamos del diseño al corte?
+
+Primero necesitamos el archivo svg. Este lo abriremos con inkscape y este inkscape tendrá de tamaño del lienzo la cama de la máquina. Después de eso, posicicionamos la imagen en el lugar donde vamos a realizar el corte. 
+
+Revisamos sus características (grosor de línea, etc). 
+
+Después guardamos como pdf
+
+Y el pdf lo imprimimos. 
+
+Revisamos las caracteristicas de impresión y lanzamos el "job". Luego le damos al botón de "play" en la láser. 
 
 ## PIEZA CORTADA 
 
+
 ¿Qué opinión tienes de cómo ha quedado?
+guay,queda los bordes quemados i te puedes mancharte pero bien.
 
 ## PIEZAS ADICIONALES
 
 
--¿Cómo pasamos del diseño al corte?
+
 
