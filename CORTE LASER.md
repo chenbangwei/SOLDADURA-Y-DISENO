@@ -61,13 +61,18 @@ TIPOS DE LASER
 
 ¿Qué imagen he escogido? ¿Por qué?
 
-
 Metro exodus,por qué es un juego que me gusta i lo juego 
+
 ¿Qué características tiene la imagen y por qué?
+
 -Mascarillas anti-radiactivas
+
 -Esta en una estación del año de nieve
--Desforestaciónes 
+
+-Desforestaciónes
+
 -vias de tren 
+
 -El personaje principal que manejas 
 
 Para cortar con láser, tuvimos que pasar la imagen a blanco y negro y vectorizarla. Además hubo que hacer una circunferencia con un trazo de color rojo 255,0,0 en RGB, para que el láser lo cortase. 
@@ -77,4 +82,25 @@ Para cortar con láser, tuvimos que pasar la imagen a blanco y negro y vectoriza
 ## Viaje a la UPC (antes de cortar)
 
 -¿Qué Impresiones tengo del sitio>¿Qué me ha gustado? ¿Cómo es?
-LAS SALAS 
+
+FresadoraCNC,Máquinas de Impressión 3D,me ha gustado corte de plasma....
+
+-¿Qué he visto y qué he aprendido en general?-->CNC-->LUGAR
+
+La Maquina 
+
+## CORTE LÁSER
+
+-¿Cómo es la láser?¿como se hace funcionar?¿Que medidas de seguridad hay?
+
+-¿Cómo pasamos del diseño al corte?
+
+## PIEZA CORTADA 
+
+¿Qué opinión tienes de cómo ha quedado?
+
+## PIEZAS ADICIONALES
+
+
+-¿Cómo pasamos del diseño al corte?
+
