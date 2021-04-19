@@ -1,3 +1,8 @@
+
+# CORTE LÁSER 
+
+## COnceptos sobre corte láser (teoría)
+
 // Apuntes classe ( corte laser)
 
 Este es el enlace base http://academy.cba.mit.edu/classes/computer_cutting/index.html
@@ -51,49 +56,25 @@ TIPOS DE LASER
 -Ti:sapphire (650-1100 nm)
 -Excimer(100-300 nm)
 
-### CÓDIGO DE CARÁCTER
- 
- 0110101 -->F 
- 
-TIPOGRAFÍA(És la definición grafica de caracteres)
-Ejemplos:
 
--Impact(memes)
+## Diseño inicial para corte láser
 
--Arial
+¿Qué imagen he escogido? ¿Por qué?
 
--Hellvetica
 
--Times new roman
+Metro exodus,por qué es un juego que me gusta i lo juego 
+¿Qué características tiene la imagen y por qué?
+-Mascarillas anti-radiactivas
+-Esta en una estación del año de nieve
+-Desforestaciónes 
+-vias de tren 
+-El personaje principal que manejas 
 
--Nunito
+Para cortar con láser, tuvimos que pasar la imagen a blanco y negro y vectorizarla. Además hubo que hacer una circunferencia con un trazo de color rojo 255,0,0 en RGB, para que el láser lo cortase. 
 
--Darker
+*imagen * 
 
-Archivos: 
+## Viaje a la UPC (antes de cortar)
 
-TTF }
-3-soko
-OTF }
-Tipo: vectoriales
-
-PDF --> Portable.Dcoument.Format
-
--Embeber o Empotrar la Tipografía
-
--Incluir en un archivo separado
-
--Pasar texto a contornos o trazos
-
- Tipografia PAGINA WEB :DAFON
- 
- -JAYCONS
- 
-![Jaycons](https://github.com/chenbangwei/SOLDADURA-Y-DISENO/blob/main/Captura%20de%20pantalla%20de%202021-04-19%2010-42-40.png)
-
-# CORTE LÁSER 
-
-* CONCEPTOS SOBRE EL CORTE LÁSER (TEORÍA)
-* DISEÑO INICIAL PARA CORTAR CON LÁSER 
-
-¿Q?
+-¿Qué Impresiones tengo del sitio>¿Qué me ha gustado? ¿Cómo es?
+LAS SALAS 
