@@ -24,6 +24,7 @@ PASO 2:
 Tamaño 50mm máx
 
 He utilizado este png 
+
 ![](https://github.com/chenbangwei/SOLDADURA-Y-DISENO/commit/960eb3bb7f87d92056e4c13af5710b0073ca3355)
 
 -Ajustamos la Herramienta
@@ -34,7 +35,9 @@ He utilizado este png
   OFFset Stepower 0.75
   
   (captura)
+  
   ![](https://github.com/chenbangwei/SOLDADURA-Y-DISENO/commit/960eb3bb7f87d92056e4c13af5710b0073ca3355)
+  
   ![](https://github.com/chenbangwei/SOLDADURA-Y-DISENO/commit/1269f1838952f8fa6a073ea56541ce8b870f40aa)
   
 -Ajustar Roland
