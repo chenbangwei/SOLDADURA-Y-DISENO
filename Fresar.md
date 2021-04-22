@@ -25,7 +25,7 @@ Tamaño 50mm máx
 
 He utilizado este png 
 
-![](https://github.com/chenbangwei/SOLDADURA-Y-DISENO/commit/960eb3bb7f87d92056e4c13af5710b0073ca3355)
+![](https://github.com/chenbangwei/SOLDADURA-Y-DISENO/blob/main/Captura%20de%20pantalla%20de%202021-04-22%2013-05-47.png)
 
 -Ajustamos la Herramienta
   Diameter 1mm
@@ -36,9 +36,9 @@ He utilizado este png
   
   (captura)
   
-  ![](https://github.com/chenbangwei/SOLDADURA-Y-DISENO/commit/960eb3bb7f87d92056e4c13af5710b0073ca3355)
+  ![](https://github.com/chenbangwei/SOLDADURA-Y-DISENO/blob/main/Captura%20de%20pantalla%20de%202021-04-22%2013-05-33.png)
   
-  ![](https://github.com/chenbangwei/SOLDADURA-Y-DISENO/commit/1269f1838952f8fa6a073ea56541ce8b870f40aa)
+  ![](https://github.com/chenbangwei/SOLDADURA-Y-DISENO/blob/main/Captura%20de%20pantalla%20de%202021-04-22%2013-05-19.png)
   
 -Ajustar Roland
   SPEED;10mm/S
