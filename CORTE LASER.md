@@ -109,12 +109,36 @@ Revisamos las caracteristicas de impresión y lanzamos el "job". Luego le damos 
 
 ## PIEZA CORTADA 
 
-
 ¿Qué opinión tienes de cómo ha quedado?
 guay,queda los bordes quemados i te puedes mancharte pero bien.
 
 ## PIEZAS ADICIONALES
 
+PASO 1:
+- CARGAR MODS
+PASO 2:
+-Cargar Png Y Ajustar DPI
+Tamaño 50mm máx
+-Ajustamos la Herramienta
+  Diameter 1mm
+  Cut Depth 1mm
+  Total Cut 1mm
+  OFFset Number 4
+  OFFset Stepower 0.75
+-Ajustar Roland
+  SPEED;10mm/S
+  ORIGIN:X-0,Y0,Z0
+  JOG Height:4mm
+-Ajustar Módulo de guardia archivo
 
+-Darle Calculate.YGuardar el.RML
+50x50mm-->   ppp-->fx
 
+## ARCHIVOS
+PPP:Puntos(píxeles).Por.Pulgada(cuadrada)
+DPI:Dots(puntos)Per(por)INCH(pulgada)
+pcb-->Placas electrónicas
+svg-->archivo vectorial
+png-->archivo ráster(pixeles)
+stl-->archivo de puntos 3D
 
