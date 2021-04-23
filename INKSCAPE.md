@@ -152,6 +152,7 @@ si,mi propia imaginacion
 ![](https://github.com/chenbangwei/SOLDADURA-Y-DISENO/blob/main/Captura%20de%20pantalla%20de%202021-04-23%2009-46-25.png)
 
 //AQUI LE HE DADO EN SHIFT A LOS CUADROS DE GRIS I DESPUES LOS HE UNIDO EN LA TRAYECTORIA EN LAS BARRAS DE HERRAMIENTAS
+
 ![](https://github.com/chenbangwei/SOLDADURA-Y-DISENO/blob/main/Captura%20de%20pantalla%20de%202021-04-23%2010-07-21.png)
 //LO MISMO QUE EN EL ANTERIOR
 ![](https://github.com/chenbangwei/SOLDADURA-Y-DISENO/blob/main/Captura%20de%20pantalla%20de%202021-04-23%2010-08-10.png)
