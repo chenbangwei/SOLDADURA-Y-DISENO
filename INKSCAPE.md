@@ -22,6 +22,7 @@ si,mi propia imaginacion
 - [CIRCULOS](https://github.com/chenbangwei/SOLDADURA-Y-DISENO/blob/main/INKSCAPE.md#circulos)
 - [IMATGE PERSONAL](https://github.com/chenbangwei/SOLDADURA-Y-DISENO/blob/main/INKSCAPE.md#imatge-personal)
 - [PROCESOS DE LOGO](https://github.com/chenbangwei/SOLDADURA-Y-DISENO/blob/main/INKSCAPE.md#inkscape-procesos-de-logo-a-logo)
+- [TIPOGRAFIA](https://github.com/chenbangwei/SOLDADURA-Y-DISENO/blob/main/INKSCAPE.md#tipograf%C3%ADa)
 
 ### pruebas                
 
