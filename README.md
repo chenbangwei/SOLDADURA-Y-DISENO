@@ -10,3 +10,6 @@
 ## [CORTE LASER APUNTES](https://github.com/chenbangwei/SOLDADURA-Y-DISENO/blob/main/CORTE%20LASER.md)
 
 ## [Fresar](https://github.com/chenbangwei/SOLDADURA-Y-DISENO/blob/main/Fresar.md)
+
+
+## [ARQUITECTURA DE ORDENADORES.](https://github.com/chenbangwei/SOLDADURA-Y-DISENO/blob/main/ARQUITECTURA%20DE%20ORDENADORES.md%F0%9F%98%A1)
