@@ -104,6 +104,9 @@ si,mi propia imaginacion
 
 ### INKSCAPE PROCESOS DE LOGO A LOGO             
 
+
+[>](https://github.com/chenbangwei/SOLDADURA-Y-DISENO/blob/main/INKSCAPE.md#tipograf%C3%ADa)
+
 [VOLVER AL ATAJO](https://github.com/chenbangwei/SOLDADURA-Y-DISENO/blob/main/INKSCAPE.md#atajos)
 
 ## LOGO 1 PRACTICA (UNDERGROUND)
@@ -143,6 +146,7 @@ si,mi propia imaginacion
 
 ## Tipografía
 
+[VOLVER AL ATAJO](https://github.com/chenbangwei/SOLDADURA-Y-DISENO/blob/main/INKSCAPE.md#atajos)
 
 ### CÓDIGO DE CARÁCTER
  
