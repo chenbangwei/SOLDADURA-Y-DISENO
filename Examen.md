@@ -46,3 +46,36 @@ ppp 300
 
 100pixeles
 ![](https://github.com/chenbangwei/SOLDADURA-Y-DISENO/blob/main/examen%20de%20insckape%201.png)
+
+## PROBLEMA 2 
+
+-MEDIDAS POR MM :1(3),2(11) i 3(12)
+
+* PASO 1
+
+medida de la pagina 11mm de ancho i 12 de altura,escribir el nombre que permanecerá en el frente en todo momento en un tono rojo
+
+![](https://github.com/chenbangwei/SOLDADURA-Y-DISENO/blob/main/Captura%20de%20pantalla%20de%202021-04-23%2013-19-45.png)
+
+* PASO 2 
+
+ ESTE ES SVG
+![](https://github.com/chenbangwei/SOLDADURA-Y-DISENO/blob/main/EXAMEN%20DE%20INSKACPE.svg)
+
+![](https://github.com/chenbangwei/SOLDADURA-Y-DISENO/blob/main/Captura%20de%20pantalla%20de%202021-04-23%2013-32-34.png)
+
+* PASO 3
+
+![](https://github.com/chenbangwei/SOLDADURA-Y-DISENO/blob/main/Captura%20de%20pantalla%20de%202021-04-23%2013-38-22.png)
+
+* PASO 4
+
+![](https://github.com/chenbangwei/SOLDADURA-Y-DISENO/blob/main/Captura%20de%20pantalla%20de%202021-04-23%2013-43-16.png)
+
+* PASO 5 
+
+![](https://github.com/chenbangwei/SOLDADURA-Y-DISENO/blob/main/Captura%20de%20pantalla%20de%202021-04-23%2013-42-51.png)
+
+## PROBLEMA 3
+
+- NOMBRE UTILIZANDO LA HERRAMINETA BÉZIER.
